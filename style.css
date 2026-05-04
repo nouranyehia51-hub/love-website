@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  background: linear-gradient(to right, #ffcccc, #ffe6e6);
+  font-family: Arial;
+}
+
+h1 {
+  color: #ff3366;
+}
+
+img {
+  width: 250px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #ff3366;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+#hidden {
+  color: #cc0066;
+  font-size: 20px;
+  margin-top: 20px;
+}
